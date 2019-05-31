@@ -1,0 +1,1 @@
+node ./wuWxapkg.js  F:\wxGetCode\code\1.wxapkg
