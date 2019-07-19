@@ -1,1 +1,1 @@
-node ./wuWxapkg.js  F:\wxGetCode\wxCode\1.wxapkg
+node ./wuWxapkg.js  D:\wxCode\2.wxapkg
