@@ -1,11 +1,4 @@
-node ./wuWxapkg.js  D:\wxCode\2.wxapkg
+node ./wuWxapkg.js  D:\wxapk\5.wxapkg
 node ./wuWxapkg.js  D:\qq\1.wxapkg
 
-
-
-可是qq小游戏怎么看源码？也应该在data这里面吧，也应该有个包吧。
-找到了就在这里。
-
-Data/data/com.tencent.mobileqq/files/minigame游戏就是一个文件夹，没有像微信小游戏那样的封包。是直接一个文件夹中的就包含了游戏依托的代码。
-
-里面就是一些js文件，具体的资源在另一个文件夹，由于我们现在要找解密的突破口，就先从这些js入手。
+Data/data/com.tencent.mobileqq/files/minigame
